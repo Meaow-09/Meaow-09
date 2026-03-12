@@ -1,4 +1,18 @@
-## Hi there 👋
+<h4 style = "text-align:center;">Welcome to my profile page</h4>
+
+
+
+## Hi :smiley_cat:
+
+Currently learning **Bachelor of Science in Computer Science** in Paris :fr:
+
+My personal Email: Meaow_09@outlook.com
+
+> ##### How to pronounce my name?
+>
+> ​		<ruby style="font-size:1.5em;">宇<rp>(</rp><rt>yǔ</rt><rp>)</rp>辰<rp>(</rp><rt>chén</rt><rp>)</rp></ruby>
+
+
 
 <!--
 **Meaow-09/Meaow-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
