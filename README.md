@@ -16,6 +16,18 @@ Feel free to ask me
 
 ### <ruby>宇<rp>(</rp><rt>yǔ</rt><rp>)</rp>辰<rp>(</rp><rt>chén</rt><rp>)</rp></ruby>
 
+> #### Something about me
+>
+> Skills:
+>
+> Programming, photography, coffee making, computer/phone/auto repair
+>
+> | Languages mastered | Level   |
+> | ------------------ | ------- |
+> | Chinese            | Native  |
+> | English            | B1 - B2 |
+> | French             | A1      |
+
 <!--
 **Meaow-09/Meaow-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
