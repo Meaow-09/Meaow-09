@@ -1,8 +1,8 @@
-#### Welcome to my profile page
+## Welcome to my profile page
 
 
 
-## Hi :smiley_cat:
+# Hi :smiley_cat:
 
 Currently learning **Bachelor of Science in Computer Science** in Paris :fr:
 
@@ -12,9 +12,9 @@ My personal Email: Meaow_09@outlook.com
 
 ---
 
-##### How to pronounce my name?
+#### How to pronounce my name?
 
-#### <ruby>宇<rp>(</rp><rt>yǔ</rt><rp>)</rp>辰<rp>(</rp><rt>chén</rt><rp>)</rp></ruby>
+### <ruby>宇<rp>(</rp><rt>yǔ</rt><rp>)</rp>辰<rp>(</rp><rt>chén</rt><rp>)</rp></ruby>
 
 
 
