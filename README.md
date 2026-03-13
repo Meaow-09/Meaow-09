@@ -1,5 +1,3 @@
-### Welcome to my profile page
-
 # Hi :smiley_cat:
 
 Currently learning **Bachelor of Science in Computer Science** in Paris :fr:
@@ -22,11 +20,14 @@ Feel free to ask me
 >
 > Programming, photography, coffee making, computer/phone/auto repair
 >
-> | Languages mastered | Level   |
-> | ------------------ | ------- |
-> | Chinese            | Native  |
-> | English            | B1 - B2 |
-> | French             | A1      |
+> | Languages mastered      | Level   |
+> | ----------------------- | ------- |
+> | Chinese                 | Native  |
+> | English                 | B1 - B2 |
+> | French                  | A1      |
+> | Wu Chinese (Suzhounese) | A1 - A2 |
+> | Cantonese               | A0 - A1 |
+> | Japanese                | A0      |
 
 <!--
 **Meaow-09/Meaow-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
